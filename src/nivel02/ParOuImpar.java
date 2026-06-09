@@ -9,9 +9,8 @@ public class ParOuImpar {
 
         System.out.println("Digite um número para saber se é par ou impar: ");
         int numero = in.nextInt();
-        int numeroTeste = numero % 2;
 
-        String resultado = (numeroTeste == 0)?"O número é par":"O número é impar";
+        String resultado = ((numero % 2) == 0)?"O número é par":"O número é impar";
 
         System.out.println(resultado);
         in.close();
