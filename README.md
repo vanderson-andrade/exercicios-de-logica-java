@@ -30,7 +30,7 @@ O plano de estudos foi dividido em 4 níveis de complexidade, focando na consist
 
 ### 🟡 Nível 2: Estruturas de Condição (if / else)
 *Foco em tomadas de decisão baseadas em regras de negócio.*
-- [ ] `ParOuImpar` - Verifica se um número inteiro é par ou ímpar.
+- [x] `ParOuImpar` - Verifica se um número inteiro é par ou ímpar.
 - [ ] `MaiorDeIdade` - Valida se o usuário já atingiu a maioridade.
 - [ ] `AprovacaoEscolar` - Classifica o aluno entre Aprovado, Recuperação ou Reprovado.
 - [ ] `MaiorDeTres` - Compara três números e aponta o maior deles.
