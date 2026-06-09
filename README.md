@@ -1,15 +1,15 @@
 # 🚀 Exercícios de Lógica de Programação em Java
 
-Repositório dedicado ao desenvolvimento de lógica de programação utilizando a linguagem **Java Puro** e a IDE **IntelliJ IDEA**.
+Repositório dedicado ao desenvolvimento de lógica de programação utilizando a linguagem **Java** e a IDE **IntelliJ IDEA**.
 
-Este projeto faz parte do meu plano tático de transição de carreira para o mercado de tecnologia, focado em **Engenharia de Software (Back-End)**, com previsão de conclusão do curso de Análise e Desenvolvimento de Sistemas para 2027.2.
+Este projeto faz parte do meu plano de transição de carreira para o mercado de tecnologia, focado em **Back-End**, com previsão de conclusão do curso de Análise e Desenvolvimento de Sistemas para 2027.2.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-*   **Linguagem:** Java (JDK 17 ou superior)
-*   **IDE:** IntelliJ IDEA (Community Edition)
-*   **Controle de Versão:** Git e GitHub (Padrão *Conventional Commits*)
+*   **Linguagem:** Java
+*   **IDE:** IntelliJ IDEA
+*   **Controle de Versão:** Git e GitHub
 
 ---
 
