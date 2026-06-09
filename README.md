@@ -33,7 +33,7 @@ O plano de estudos foi dividido em 4 níveis de complexidade, focando na consist
 - [x] `ParOuImpar` - Verifica se um número inteiro é par ou ímpar.
 - [x] `MaiorDeIdade` - Valida se o usuário já atingiu a maioridade.
 - [x] `AprovacaoEscolar` - Classifica o aluno entre Aprovado, Recuperação ou Reprovado.
-- [ ] `MaiorDeTres` - Compara três números e aponta o maior deles.
+- [x] `MaiorDeTres` - Compara três números e aponta o maior deles.
 - [ ] `CalculadoraBasica` - Executa operações matemáticas com base no operador escolhido.
 - [ ] `ValidadorTriangulo` - Verifica se três medidas podem formar um triângulo.
 - [ ] `CalculoDesconto` - Aplica desconto percentual condicionado ao valor do produto.
