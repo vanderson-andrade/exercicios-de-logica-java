@@ -67,7 +67,7 @@ O plano de estudos foi dividido em 4 níveis de complexidade, focando na consist
 ## ✒️ Como executar o projeto
 1. Faça o clone do repositório:
 ```bash
-   git clone [https://github.com/vanderson-andrade/exercicios-de-logica-java.git](https://github.com/vanderson-andrade/exercicios-de-logica-java.git)
+   git clone https://github.com/vanderson-andrade/exercicios-de-logica-java.git
 ``` 
 
 2. Abra a pasta do projeto utilizando o IntelliJ IDEA.
