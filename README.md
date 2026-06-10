@@ -36,7 +36,7 @@ O plano de estudos foi dividido em 4 níveis de complexidade, focando na consist
 - [x] `MaiorDeTres` - Compara três números e aponta o maior deles.
 - [x] `CalculadoraBasica` - Executa operações matemáticas com base no operador escolhido.
 - [x] `ValidadorTriangulo` - Verifica se três medidas podem formar um triângulo.
-- [ ] `CalculoDesconto` - Aplica desconto percentual condicionado ao valor do produto.
+- [x] `CalculoDesconto` - Aplica desconto percentual condicionado ao valor do produto.
 
 ### 🟠 Nível 3: Estruturas de Repetição (for / while)
 *Foco em loops, iterações e automação de processos repetitivos.*
