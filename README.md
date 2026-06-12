@@ -41,7 +41,7 @@ O plano de estudos foi dividido em 4 níveis de complexidade, focando na consist
 ### 🟠 Nível 3: Estruturas de Repetição (for / while)
 *Foco em loops, iterações e automação de processos repetitivos.*
 - [x] `ContagemRegressiva` - Exibe uma contagem regressiva na tela de 10 a 1.
-- [ ] `Tabuada` - Gera a tabuada completa de 1 a 10 do número informado.
+- [x] `Tabuada` - Gera a tabuada completa de 1 a 10 do número informado.
 - [ ] `SomaDosNumeros` - Acumula a soma de números digitados até o usuário digitar 0.
 - [ ] `Fatorial` - Calcula o fatorial de um número inteiro.
 - [ ] `NumerosPrimos` - Identifica se um número é primo.
