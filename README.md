@@ -46,7 +46,7 @@ O plano de estudos foi dividido em 4 níveis de complexidade, focando na consist
 - [x] `Fatorial` - Calcula o fatorial de um número inteiro.
 - [x] `NumerosPrimos` - Identifica se um número é primo.
 - [x] `ApenasOsImpares` - Filtra e exibe os números ímpares em um intervalo de 1 a 50.
-- [ ] `ValidadorSenha` - Bloqueia a execução até que a senha correta seja inserida.
+- [x] `ValidadorSenha` - Bloqueia a execução até que a senha correta seja inserida.
 
 ### 🔴 Nível 4: Vetores e Matrizes
 *Foco em estruturas de dados em memória e manipulação de coleções.*
