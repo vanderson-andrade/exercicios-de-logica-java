@@ -44,7 +44,7 @@ O plano de estudos foi dividido em 4 níveis de complexidade, focando na consist
 - [x] `Tabuada` - Gera a tabuada completa de 1 a 10 do número informado.
 - [x] `SomaDosNumeros` - Acumula a soma de números digitados até o usuário digitar 0.
 - [x] `Fatorial` - Calcula o fatorial de um número inteiro.
-- [ ] `NumerosPrimos` - Identifica se um número é primo.
+- [x] `NumerosPrimos` - Identifica se um número é primo.
 - [ ] `ApenasOsImpares` - Filtra e exibe os números ímpares em um intervalo de 1 a 50.
 - [ ] `ValidadorSenha` - Bloqueia a execução até que a senha correta seja inserida.
 
