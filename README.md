@@ -51,7 +51,7 @@ O plano de estudos foi dividido em 4 níveis de complexidade, focando na consist
 ### 🔴 Nível 4: Vetores e Matrizes
 *Foco em estruturas de dados em memória e manipulação de coleções.*
 - [x] `ListaDeNumeros` - Armazena valores em um vetor e os exibe na ordem inversa.
-- [ ] `MaiorEMenorVetor` - Identifica os valores extremos dentro de uma coleção.
+- [x] `MaiorEMenorVetor` - Identifica os valores extremos dentro de uma coleção.
 - [ ] `BuscaNoVetor` - Realiza uma busca linear de strings dentro de um vetor de nomes.
 - [ ] `MediaTurmaVetor` - Calcula médias coletivas utilizando vetores de notas.
 - [ ] `MatrizSimples` - Cria e soma elements de uma estrutura bidimensional (3x3).
