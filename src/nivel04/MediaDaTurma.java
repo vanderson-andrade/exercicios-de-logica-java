@@ -52,5 +52,7 @@ public class MediaDaTurma {
 
         mediaTurma = (media[0] +  media[1] + media[2] + media[3]  + media[4])/ media.length;
         System.out.println("Media da turma: " + mediaTurma);
+
+        in.close();
     }
 }
