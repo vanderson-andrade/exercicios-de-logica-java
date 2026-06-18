@@ -53,7 +53,7 @@ O plano de estudos foi dividido em 4 níveis de complexidade, focando na consist
 - [x] `ListaDeNumeros` - Armazena valores em um vetor e os exibe na ordem inversa.
 - [x] `MaiorEMenorVetor` - Identifica os valores extremos dentro de uma coleção.
 - [x] `BuscaNoVetor` - Realiza uma busca linear de strings dentro de um vetor de nomes.
-- [ ] `MediaTurmaVetor` - Calcula médias coletivas utilizando vetores de notas.
+- [x] `MediaTurmaVetor` - Calcula médias coletivas utilizando vetores de notas.
 - [ ] `MatrizSimples` - Cria e soma elements de uma estrutura bidimensional (3x3).
 
 ### 🏆 Nível 5: Desafio Final (Simulação de Sistemas)
