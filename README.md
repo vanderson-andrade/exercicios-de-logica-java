@@ -58,7 +58,7 @@ O plano de estudos foi dividido em 4 níveis de complexidade, focando na consist
 
 ### 🏆 Nível 5: Desafio Final (Simulação de Sistemas)
 *Exercícios complexos que unem todos os pilares anteriores simulando cenários reais de mercado.*
-- [ ] `SistemaLoginSimples` - Sistema com limite de 3 tentativas de acesso antes do bloqueio.
+- [x] `SistemaLoginSimples` - Sistema com limite de 3 tentativas de acesso antes do bloqueio.
 - [ ] `SimuladorCaixaEletronico` - Algoritmo para menor distribuição possível de cédulas bancárias.
 - [ ] `MiniSistemaEstoque` - Aplicação controlada por menu no terminal para CRUD em memória.
 
